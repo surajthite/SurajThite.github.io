@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Chaitanya Bapat
+title: Suraj Thite
 ---
 
 {% include cv.md %}

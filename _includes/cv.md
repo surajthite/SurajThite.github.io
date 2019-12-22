@@ -22,7 +22,7 @@ As a part of my 4-year undergrad (Bachelors in Computer Engineering at Sardar Pa
 
 Being a firm believer in open science framework and the principle of reproducible work, I actively publish my code on [GitHub](https://github.com/ChaiBapchya). Over the past year, I have managed to become a Contributer to the open source Deep Learning framework, [Apache MXNet](https://mxnet.incubator.apache.org). Being an incubator project under Apache organisation, it allows me to be a part of a vibrant and intelligent open source community. I aspire to be elected as a Committer (next logical step) of the Github repository : [apache/incubator-mxnet](https://github.com/apache/incubator-mxnet/)
 
-For more details, have a look at <a href="https://www.linkedin.com/in/chaibapchya/"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" style="border: none;" width="160" height="33" border="0" alt="Chaitanya Bapat's LinkedIn Profile"></a>
+For more details, have a look at <a href="https://www.linkedin.com/in/chaibapchya/"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" style="border: none;" width="160" height="33" border="0" alt="Suraj Thite's LinkedIn Profile"></a>
 
 Moreover, to catch up with my tweets (I tweet daily about anything interesting I find), <a href="https://twitter.com/ChaiBapchya" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @ChaiBapchya</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
@@ -130,7 +130,7 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 <tr>
 <td>
     <strong>Smart-Lock Security Re-engineered using Cryptography and Steganography</strong><br>
-    <strong> Chaitanya Bapat</strong>, Ganesh Baleri, Shivani Inamdar and Anant V Nimkar<br>
+    <strong> Suraj Thite</strong>, Ganesh Baleri, Shivani Inamdar and Anant V Nimkar<br>
     arXiv 2019<br>
     [1]
     [<a href='javascript: none'

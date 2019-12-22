@@ -11,7 +11,7 @@ I'm a computer science graduate student at Georgia Institute of Technology. With
 
 Being a firm believer in open science framework and the principle of reproducible work, I actively publish my code on GitHub.
 
-For more details view <a href="https://www.linkedin.com/in/chaibapchya/"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" style="border: none;" width="160" height="33" border="0" alt="Chaitanya Bapat's LinkedIn Profile"></a>
+For more details view <a href="https://www.linkedin.com/in/chaibapchya/"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_myprofile_160x33.png" style="border: none;" width="160" height="33" border="0" alt="Suraj Thite's LinkedIn Profile"></a>
 
 <br/>
 
