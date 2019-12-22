@@ -1,15 +1,15 @@
-- title: "SDE, AWS: Jul 2019 - Present"
-  description: Amazon AI | Deep Engine | Contributing to <a href="https://mxnet.incubator.apache.org/">Apache MXNet</a>, an open source Deep Learning library.
+- title: "Graduate School at CU Boulder : August 2019 -  Present"
+  description: Master of Science Student in Electrical Engineering with Specialization in Embedded Systems and IoT Firmware  Design 
   additional_classes: slideInLeft
   icon:
-    src: /images/aws.png
+    src: /images/L&T.png
     background_color: #FFFFFF
 
-- title: "Spring Commencement! Georgia Tech : May 2019"
-  description: Graduated on May 3rd, 2019 from Georgia Institute of Technology with a Masters in Computer Science (Machine Learning Specialization).
+-  title: "Senior Systems Design Engineer, Larsen and Toubro Ltd. : July 2017 -  July 2019"
+  description: Building Automation & Control Systems | Smart Electrical Meters (in collaboration with Cyannaconode) | Process and Industrial Automation Systems
   additional_classes: slideInRight
   icon:
-    src: /images/gt_new.png
+    src:/images/L&T.png
     background_color: #E7235E
 
 - title: "SDE Intern, Amazon : Fall 2018"
