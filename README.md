@@ -1,2 +1,2 @@
-# surajthite.github.io
-Suraj Thite's Personal Website
+# ChaiBapchya.github.io
+Chaitanya Bapat's Personal Website
