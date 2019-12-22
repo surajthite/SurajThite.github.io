@@ -1,12 +1,12 @@
 # Site settings
-title: Chaitanya Bapat
-email: chai.bapat@gmail.com
+title: Suraj Thite
+email: suraj.thite@colorado.edu
 description: Data monger, Technology enthusiast and Perennial optimist. # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://ChaiBapchya.github.io" # the base hostname & protocol for your site
-twitter_username: ChaiBapchya
-github_username:  ChaiBapchya
+url: "https://surajthite.github.io/" # the base hostname & protocol for your site
+twitter_username: surajthite
+github_username:  surajthite
 
 # Build settings
 markdown: kramdown
