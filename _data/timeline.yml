@@ -16,7 +16,7 @@
   description: Worked in as design engineer to engineer solutions for Smart Electrical Meters , Process and Industrial Automation systems and Telecommunication Security Systems.
   additional_classes: slideInRight
   icon:
-    src: /images/gatech.png
+    src: /images/nexchanges.png
     background_color: #E7235E
 
 - title: "Graduate Engineering Trainee, Larsen and Toubro  Ltd. : June 2017 - June, 2018"
@@ -24,7 +24,7 @@
   additional_classes: slideInLeft
   icon:
     src: /images/nexchanges.png
-    background_color: orangered
+    background_color: #E7235E
 
 - title: "Bachelor of Engineering (Electronics and Telecommunication) : August 2013 - May 2017"
   description: Completed Undergraduate Education from University of Mumbai with a GPA of 8.27. Developed Embedded Firmware projects like Portable AVR Oscilloscope, Self Stablizing Platform and Robotic Hotel Management System during undergraduate education.
