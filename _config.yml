@@ -13,3 +13,4 @@ markdown: kramdown
 
 #advantage - globally accessible
 # for e.g. site.title , site.email, site.url etc using Liquid template can be used anywhere
+theme: jekyll-theme-slate
