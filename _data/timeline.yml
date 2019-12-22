@@ -2,14 +2,14 @@
   description:
   additional_classes: slideInLeft
   icon:
-    src: /images/amazon.png
+    src: /images/amazon.jpg
     background_color: #E7235E
 
 - title: "Graduate School at CU Boulder: August 2019-Present."
   description: Kicked off My grad life at University of Colorado Boulder in Electical Engineering (Specialization in Embdeded Systems and IoT Firmware Design).
   additional_classes: slideInLeft
   icon:
-    src: /images/c21u.jpeg
+    src: /images/c21u.png
     background_color: #E7235E
 
 - title: "Senior Systems Design and Integration Engineer , Larsen and Toubro Ltd. : July 2018 - June 2019"
@@ -23,7 +23,7 @@
   description: Worked in comissioing  of Building Automation and Control Systems for Qatar Rail.
   additional_classes: slideInLeft
   icon:
-    src: /images/nexchanges.jpg
+    src: /images/nexchanges.png
     background_color: orangered
 
 - title: "Bachelor of Engineering (Electronics and Telecommunication) : August 2013 - May 2017"
@@ -36,7 +36,7 @@
   description: Designed Servo Models to implement haptic feedback for telerobotic manipulators for nuclear handling in department of Remote Handling and Robotics.Wrapped  Interoperable Teleoperation Protocol in UDP packet to minimize packet latency.
   additional_classes: slideInLeft
   icon:
-    src: /images/matrics.jpg
+    src: /images/matrics.png
 
 
 - title: "Research and Project Intern, BARC : June - July, 2014"
