@@ -56,132 +56,35 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
   </tr>
 </table>
 
-
-## <i class="fa fa-chevron-right"></i> Research Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-3'>Jan 2019 - May 2019</td>
-  <td>
-    <strong>Georgia Institute of Technology</strong>,<br> Center for 21st Century Universities <br> Matt Lisle <br>Education Technology - Blockchain <br>
-    BlockCerts
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>August 2017 - May 2018</td>
-  <td>
-    <strong>Georgia Institute of Technology</strong>,<br> HX Labs <br> Lauren Wilcox <br>Health Care Technology and User Experience <br>
-    Rapport - Interactive Patient centered Radiology reports <br>
-    [<a href='https://youtu.be/r9gTR6IzEqM' target='_blank'>video</a>]
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>August 2017 - May 2018</td>
-  <td>
-    <strong>Georgia Institute of Technology</strong>,<br> Center for 21st Century Universities <br> Dr. Rob Kadel <br>Education Technology - Data Analysis<br>
-    Performance Analysis of MOOCs vs On-Campus Teaching
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>June 2016 - May 2017</td>
-  <td>
-    <strong>Sardar Patel Institute of Technology</strong>,<br> Dr. Anant V. Nimkar <br>
-    Internet of Things and Security
-  </td>
-</tr>
-<tr>
-  <td class='col-md-3'>May 2015 - July 2016</td>
-  <td>
-    <strong>Sardar Patel Institute of Technology</strong>,<br> Dr. D. R. Kalbande <br>
-    Image Recognition and Machine learning
-  </td>
-</tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Publications <i class="fa fa-code-fork" aria-hidden="true"></i>
-
-<table class="table table-hover">
-<tr>
-<td>
-    <strong>Smart-Lock Security Re-engineered using Cryptography and Steganography</strong><br>
-    <strong> Suraj Thite</strong>, Ganesh Baleri, Shivani Inamdar and Anant V Nimkar<br>
-    arXiv 2019<br>
-    [1]
-    [<a href='javascript: none'
-    onclick='$("#abs_smartlock").toggle()'>abs</a>]  [<a href='https://arxiv.org/abs/1901.06381' target='_blank'>pdf</a>]   
-<div id="abs_smartlock" style="text-align: justify; display: none" markdown="1">
-After the rise of E-commerce, social media and messenger bots, rapid developments have been made in the field of connecting things, gadgets, and devices, i.e, the Internet of Things (IoT). In the fast-paced lifestyle, it is very difficult to maintain multiple keys for tra- ditional mechanical locks. Electromagnetic smart locks are a possible solution to this problem. To connect a smart lock with a key, Bluetooth Low Energy (BLE) protocol can be used. BLE protocol is vulnerable to Man-in-the-Middle (MITM) attack. Ensuring security over BLE is an ongoing challenge. This paper aims to analyze the MITM vulnerability of BLE and develop a possible solution for designing smart-locks with an increased level of security. The observation shows that the combina- tion of Image Steganography and Cryptography helps to overcome the vulnerabilities of BLE protocol.
-</div>
-</td>
-</tr>
-<tr>
-  <td>
-    <strong>Human Skin Detection Using RGB, HSV and YCbCr Color Models</strong><br>
-    S. Kolkur, D. Kalbande, P. Shimpi, <strong> C. Bapat</strong>, and J. Jatakia<br>
-    arXiv 2017<br>
-    [2]
-    [<a href='javascript: none'
-    onclick='$("#rgbhsvycbcr").toggle()'>abs</a>]  [<a href='https://arxiv.org/abs/1708.02694' target='_blank'>pdf</a>]  
-<div id="rgbhsvycbcr" style="text-align: justify; display: none" markdown="1">
-Human Skin detection deals with the recognition of skin-colored pixels and regions in a given image. Skin color is often used in human skin detection because it is invariant to orientation and size and is fast to pro- cess. A new human skin detection algorithm is proposed in this paper. The three main parameters for recogniz- ing a skin pixel are RGB (Red, Green, Blue), HSV (Hue, Saturation, Value) and YCbCr (Luminance, Chromi- nance) color models. The objective of proposed algorithm is to improve the recognition of skin pixels in given images. The algorithm not only considers individual ranges of the three color parameters but also takes into ac- count combinational ranges which provide greater accuracy in recognizing the skin area in a given image.
-</div>
-</td>
-</tr>
-</table>
-
-
-## <i class="fa fa-chevron-right"></i> Teaching Experience
-<table class="table table-hover">
-<tr>
-  <td class='col-md-1'>F2017</td>
-  <td>Georgia Institute of Technology<br><strong>Physics 2211/2212</strong> , TA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>F2016</td>
-  <td>Sardar Patel Institute of Technology<br><strong>Object Oriented Programming Methodology</strong> , TA</td>
-</tr>
-<tr>
-  <td class='col-md-1'>S2016</td>
-  <td>Sardar Patel Institute of Technology<br><strong>Structured Programming Approach</strong> , TA</td>
-</tr>
-</table>
-
-
 ## <i class="fa fa-chevron-right"></i> Industry Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>Jul 2019 - Present</td>
-  <td><strong>Amazon AI</strong>, DeepEngine Team, Software Development Engineer</td>
+  <td class='col-md-3'>May 2020 - August 2020</td>
+  <td><strong>Samsung Semiconductors Intern</strong>, SSD Firmware Development Team, Firmware Development Engineer</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>Sep 2018 - Dec 2018</td>
-  <td><strong>Amazon AI</strong>, DeepEngine Team, Software Development Engineer Intern</td>
+  <td class='col-md-3'>July 2018 - July 2019</td>
+  <td><strong>Larsen and Toubro Ltd. </strong>,Systems Design and Integration Team, Senior Systems design and Project Engineer</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2018 - Dec 2018</td>
-  <td><strong>Verizon Connect</strong>, Software Development Engineer Intern</td>
+  <td class='col-md-3'>July 2017 - July 2018</td>
+  <td><strong>Larsen and Toubro Ltd. </strong>, Graduate Engineering Trainee</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>May 2016 - Dec 2016</td>
-  <td><strong>Nexchanges Technology Private Limited</strong>, Data Scientist Intern</td>
+  <td class='col-md-3'>Dec 2015 - Jan 2016</td>
+  <td><strong>Bhabha Atomic Research Center </strong>,Department of Remote Handling and Robotics, Research and Project Trainee</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>Apr 2016 - May 2016</td>
-  <td><strong>MatriCS</strong>, Research Intern</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Jun 2015 - Dec 2015</td>
-  <td><strong>Quickwork Technologies Privated Limited</strong>, Software Developer Intern</td>
+  <td class='col-md-3'>June 2014 - July 2014</td>
+  <td><strong>Bhabha Atomic Research Center</strong>,Department of Radiation Detection and Instrumentation,  Research and Project Trainee</td>
 </tr>
 <tr>
 </tr>
