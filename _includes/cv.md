@@ -1,12 +1,12 @@
-I'm a Software Developer Engineer at Amazon Web Services(AWS). Within the AWS organization, I work in the Deep Engines team as a part of Amazon AI. Specifically, I work on [Apache MXNet](https://mxnet.incubator.apache.org/), an open-source deep learning framework (competing against the likes of Google's Tensorflow and Facebook's PyTorch).
+I'm a Graduate Student  at University of Colorado, Boulder kicked off at Fall 2019. Enrolled in Master of Science in Electrical Engineering Program with specialization in Embedded Systems and IoT Firmware Design. Completed Principle Of Embedded Software Design , IoT Firmware Design courses while currently enrolled in Real Time Embedded Systems Design and Advanced Embedded Software Design during my graduate journey.
 
-Before joining AWS, I was a CS graduate student at Georgia Institute of Technology. Over the period of 3 semesters at GaTech (Fall 17, Spring 18, Spring 19) I was a Graduate Research Assistant (GRA) at Center for 21st Century Universities involved in research around Education Technology. In my final semester (3rd), I got to work on a Blockchain POC (Proof of Concept) project (Blockchain for Academic Credentials) with C21U. I got to contribute to the Blockcerts repository (MIT's blockchain for academic project).
+Working on  projects such as BLE mesh based Smart Ware House System and developing firmware drivers for I2C, UART , DMA, ADC/DAC ,SPI during my coursework gave me a deep insight into wireless technologies, low power system design and bare metal firmware design. I have also worked on FreeRTOS and implemented task scheduling and message queues along with semaphores and mutexes for mutual exclusion and process signaling purposes.  
 
-<h2>Intern in US</h2>
+<h2>Work Life in Larsen and Toubro Ltd.</h2>
 
-Thanks to Georgia Tech's [Co-Op program](https://career.gatech.edu/co-op), I spent my Fall 2018 semester in Palo Alto, California working with Amazon Web Services (AWS) as an SDE Intern. I was lucky to be assigned Amazon AI org and specifically in the Deep Engine team. Over the 4 months (Fall 2018), I could get my hands dirty with mathematics, C++ and Machine Learning (you may call it Deep Learning to sound cool). To be precise, instead of just "using the framework" (`import mxnet as mx`), I could look at the framework from architecture standpoint; learning it's front-end and back-end. The name of the framework is [Apache MXNet](http://mxnet.incubator.apache.org/), an incubator project licensed under Apache. It is an open-source Deep Learning framework (akin to [Tensorflow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [Keras](https://keras.io/)) which boasts high performance and great results along with user-friendly APIs with a multi-language support (to name a few - Python, R, Clojure, even Java APIs). All in all, it was an incredible learning experience to work in the Big 4 Tech company and yet be involved in an open-source project (200+ [Github](https://github.com/ChaiBapchya/) contributions over the year! Yay!)
+I was posted at Larsen and Tourbo limited which is a large conglomerate company in India as a Graduate Engineering Trainee. I was deputed to Doha, Qatar for testing and commissioning of Building Automation and Control Systems to be installed for Qatar Rail Project. Integrated the system with and designed sequence of operation for critical situations such as fire. The Ladder logic was designed accordingly and the system was tested on SCADA before final handover to client.
 
-Over the summer of 2018, I was lucky to be a part of [Verizon Connect](https://www.verizonconnect.com/) (previously Verizon Telematics). I got to work on 2 Proof-of-Concepts (POCs) related to automobile/fleet management. First one being "Device to Blockchain" - an effort to prevent odometer fraud and other tampering of vehicular data by removing intermediaries in data measurement and record-keeping. I got to work on Ethereum and Solidity smart contracts, as a part of this project and we were able to demonstrate a product that could potentially help insurance companies, customers, manufacturers and automobile maintenance service agents. Second project was "Predictive Maintenance" (differentiate from Preventive and Corrective). We build a variant of LSTM (Long Short Term Memory) model based on the time-series data about Diagnostic Test Codes (DTC). The model ingested million+ data points to come up with a prediction of whether the car would suffer from any of the top 10 DTCs in the next 30 days - pretty cool feature! Classic multi-class classification problem.
+Upon promotion to Senior Systems Design Engineer, I was engaged in the Automation Design Team. I worked on designing of smart Electrical   
 
 <h2>Back to the academics (Grad school)</h2>
 
@@ -16,7 +16,7 @@ Moreover, I was fortunate enough to be a Teaching Assistant along with a GRA in 
 
 <h2>First Foray into the computer science world (Under-grad)</h2>
 
-As a part of my 4-year undergrad (Bachelors in Computer Engineering at Sardar Patel Institute of Technology, I was actively involved in research work and applied Machine Learning. Dabbling my hands in the field of Image Recognition and Machine Learning, I researched on Skin Image Recognition using RGB, HSV and YCbCr color models. We successfully detected and differentiated skin pixels from non-skin using a weighted combination of different color models. Our work revolved around training and building the mathematical formula to help improve the accuracy (>90%). Further, I have assisted Nexchanges in building an end-to-end Data Analytics pipeline. Right from Data Extraction using Python libraries Scrapy and Beautiful Soup to Data Warehousing to the final Data Visualization using D3.js, I have learnt immensely thanks to Nexchanges. 
+As a part of my 4-year undergrad (Bachelors in Computer Engineering at Sardar Patel Institute of Technology, I was actively involved in research work and applied Machine Learning. Dabbling my hands in the field of Image Recognition and Machine Learning, I researched on Skin Image Recognition using RGB, HSV and YCbCr color models. We successfully detected and differentiated skin pixels from non-skin using a weighted combination of different color models. Our work revolved around training and building the mathematical formula to help improve the accuracy (>90%). Further, I have assisted Nexchanges in building an end-to-end Data Analytics pipeline. Right from Data Extraction using Python libraries Scrapy and Beautiful Soup to Data Warehousing to the final Data Visualization using D3.js, I have learnt immensely thanks to Nexchanges.
 
 <h2>O hail Open Source!</h2>
 
@@ -54,9 +54,9 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
   <tr>
     <td class="col-md-3">Aug 2017 - May 2019</td>
     <td>
-        <strong>M.S. in Computer Science</strong> (3.625/4.000)
+        <strong>M.S. in Electrical Engineering</strong> (3.85/4.000)
         <br>
-      Georgia Institute of Technology
+      University of Colorado, Boulder.
     </td>
   </tr>
   <tr>
@@ -236,4 +236,3 @@ Linux, OSX
   </td>
 </tr>
 </table>
-
