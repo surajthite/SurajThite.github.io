@@ -3,11 +3,11 @@ layout: page
 title: About
 ---
 
-<img class="about-me-image" src="/images/about.jpg" width="256" height="200" align="right">
+<img class="about-me-image" src="/images/about.png" width="256" height="200" align="right">
 
 Howdy! I'm Chaitanya Prakash Bapat.
 
-I'm a computer science graduate student at Georgia Institute of Technology. With an experience of past 4 years in the industry, I intend to 
+I'm a computer science graduate student at Georgia Institute of Technology. With an experience of past 4 years in the industry, I intend to
 
 Being a firm believer in open science framework and the principle of reproducible work, I actively publish my code on GitHub.
 
