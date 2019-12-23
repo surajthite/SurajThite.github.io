@@ -97,19 +97,19 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-Python, Java, C, Bash, C++, CSS, HTML, JavaScript, LaTeX, Make, R, Scala
+Python, C, Bash, C++, HTML, JavaScript, Embedded C
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Frameworks</td>
+  <td class='col-md-2'>Embedded Frameworks</td>
   <td markdown="1">
-Apache MXNet, NumPy, Pandas, SciPy, scikit-learn, TensorFlow, PyTorch, Spark, Hadoop, Pachyderm, Android SDK/NDK, Node.js, Kafka
+Code Composer Studio, Keil , Simplicity Studio, MCU expresso , AVR Studio.
   </td>
 </tr>
 <tr>
-  <td class='col-md-2'>Systems</td>
+  <td class='col-md-2'>Operating Systems</td>
   <td markdown="1">
-Linux, OSX
+Linux(Debian), Windows , FreeRTOS ,Raspbian
   </td>
 </tr>
 </table>
