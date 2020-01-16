@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Student Life in USA and India"
-date:   2016-06-05 19:09:47
+date:   2020-01-01 19:09:47
 ahrefurl: https://medium.com/@surajthite/life-in-india-and-usa-which-one-is-better-16997b8167eb
 comments: true
 categories: current-affairs
