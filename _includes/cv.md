@@ -97,19 +97,19 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-Python, C, Bash, C++, HTML, JavaScript, Embedded C
+C,C++,Embedded C,  Bash, HTML, JavaScript, Python.
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Embedded Frameworks</td>
   <td markdown="1">
-Code Composer Studio, Keil , Simplicity Studio, MCU expresso , AVR Studio.
+Code Composer Studio, Keil, Simplicity Studio, MCU expresso, AVR Studio, Buildroot, Yocto.
   </td>
 </tr>
 <tr>
   <td class='col-md-2'>Operating Systems</td>
   <td markdown="1">
-Linux(Debian), Windows , FreeRTOS ,Raspbian
+Linux(Debian), Windows, FreeRTOS.
   </td>
 </tr>
 </table>
