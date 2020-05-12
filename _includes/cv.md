@@ -28,7 +28,7 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2017 - May 2019</td>
+    <td class="col-md-3">Aug 2019 - Present</td>
     <td>
         <strong>M.S. in Electrical Engineering</strong> (3.85/4.000)
         <br>
@@ -61,8 +61,8 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 ## <i class="fa fa-chevron-right"></i> Industry Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>May 2020 - August 2020</td>
-  <td><strong>Samsung Semiconductors Intern</strong>, SSD Firmware Development Team, Firmware Development Engineer</td>
+  <td class='col-md-3'>May 2020 - September 2020</td>
+  <td><strong>Graduate Student Assistant</strong>, Machine Vision and Intelligent Automation, University of Colorado-Boulder</td>
 </tr>
 <tr>
 </tr>
