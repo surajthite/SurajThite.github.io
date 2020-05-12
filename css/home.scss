@@ -56,7 +56,7 @@
 
   #my-journey {
     padding: 20px 10px;
-    @include retina-image("/images/126614", 11px, jpeg);
+    @include retina-image("/images/126614.jpg", 11px, jpeg);
     margin-bottom: 135px;
     padding-top: 20px;
     .timeline {
