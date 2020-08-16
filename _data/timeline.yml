@@ -1,5 +1,5 @@
 - title: "Graduate Teaching Assistant: May 2020 - Present."
-  description: Took up the responsibiliy of Graduate Teaching Assistant at CU Boulder for Machine Vision and Intelligent Automation Course.
+  description: Took up the responsibiliy of Graduate Teaching Assistant at CU Boulder for Real Time Embedded Systems Design and Facilitating it on Coursera.
   additional_classes: slideInLeft
   icon:
     src: /images/ta.png
@@ -13,14 +13,14 @@
     background_color: #E7235E
 
 - title: "Senior Systems Design and Integration Engineer , Larsen and Toubro Ltd. : July 2018 - June 2019"
-  description: Worked in as design engineer to engineer solutions for Smart Electrical Meters , Process and Industrial Automation systems and Telecommunication Security Systems.
+  description: Employed as Systems Design Engineer to deliver engineer solutions for Smart Electrical Meters , Process and Industrial Automation systems and Telecommunication Security Systems.
   additional_classes: slideInRight
   icon:
     src: /images/nexchanges.png
     background_color: #E7235E
 
 - title: "Graduate Engineering Trainee, Larsen and Toubro  Ltd. : June 2017 - June, 2018"
-  description: Worked in comissioing  of Building Automation and Control Systems for Qatar Rail.
+  description: Worked in comissioning  of Building Automation and Control Systems for Qatar Rail.
   additional_classes: slideInLeft
   icon:
     src: /images/nexchanges.png
