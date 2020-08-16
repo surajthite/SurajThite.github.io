@@ -1,3 +1,10 @@
+- title: "Associate Member: May 2020 - Present."
+  description: Working on micro-watt project for IBM POWER 10 architecture collaborating with OpenPOWER Foundation.
+  additional_classes: slideInLeft
+  icon:
+    src: /images/power.png
+    background_color: #E7235E
+    
 - title: "Graduate Teaching Assistant: May 2020 - Present."
   description: Took up the responsibiliy of Graduate Teaching Assistant at CU Boulder for Real Time Embedded Systems Design and Facilitating it on Coursera.
   additional_classes: slideInLeft
