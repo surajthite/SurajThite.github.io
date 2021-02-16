@@ -1,8 +1,6 @@
-I'm a Graduate Student  at University of Colorado, Boulder kicked off at Fall 2019. Enrolled in Master of Science in Electrical Engineering Program with specialization in Embedded Systems and IoT Firmware Design. Completed Principle Of Embedded Software Design , IoT Firmware Design courses while currently enrolled in Real Time Embedded Systems Design and Advanced Embedded Software Design and Wireless Local Area Networks as a part of  my graduate journey.
+I'm a Graduate Student  at University of Colorado majoring in Electrical Engineering  with specialized track in Embedded Systems and IoT Firmware Design. My interests lie in Baremetal Firmware development, Computer Systems Architecture, Operating Systems Concepts, Linux Systems Programming, Concurrent Programming. Working on plethora of projects in Embedded Systems domain expanded my horizons as a Firmware Developer laying strong foundations as a Systems Software / Firmware Developer in the Semiconductor industry. I have worked on Realtime Systems projects, Custom Linux based Embedded Systems Design Projects and Multi-threaded binary applications development.
 
-Currently enrolled in Advanced Embedded software design , Real Time Embedded Systems Design and Wireless Local Area Network Design opened the pathways for Designing and Building of  Architecture Specific Linux Kernel ,Analysis  and Implementation of various Scheduling Policies used in Real Time Systems  and Evolution of wireless technologies specific to WiFi 802.11  areas to bolster my career goals.  
-
-Working on  projects such as BLE mesh based Smart Ware House System and developing firmware drivers for I2C, UART , DMA, ADC/DAC ,SPI during my first semester coursework while being enrolled in Principles of Embedded Software Design and IoT Embedded Firmware design gave me a deep insight into wireless technologies, low power system design and bare metal firmware design. I have also worked on FreeRTOS and implemented task scheduling and message queues along with semaphores and mutexes for mutual exclusion and process signaling purposes.  
+Apart from Embedded Systems, I spend most of my time outdoors Hiking, Driving , Reading and Sports. I am passionate about financial aspects of business models, traveling , photography , Technology and music.      
 
 <h2>Work Life at Larsen and Toubro Ltd.</h2>
 
@@ -28,7 +26,7 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2019 - Present</td>
+    <td class="col-md-3">Aug 2019 - May 2021</td>
     <td>
         <strong>M.S. in Electrical Engineering</strong> (3.85/4.000)
         <br>
@@ -61,8 +59,14 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 ## <i class="fa fa-chevron-right"></i> Industry Experience
 <table class="table table-hover">
 <tr>
-  <td class='col-md-3'>May 2020 - September 2020</td>
-  <td><strong>Graduate Student Assistant</strong>, Machine Vision and Intelligent Automation, University of Colorado-Boulder</td>
+  <td class='col-md-3'>June 2021 - Present</td>
+  <td><strong> Intel Corporation </strong> Nonvolatile Memory Solutions Group, SSD Firmware Developer.</td>
+</tr>
+<tr>
+</tr>
+<tr>
+  <td class='col-md-3'>May 2020 - May 2021</td>
+  <td><strong> University of Colorado-Boulder </strong> Graduate Student Assistant & Course Facilitator, Real Time Embedded System Design.</td>
 </tr>
 <tr>
 </tr>
@@ -99,7 +103,7 @@ Moreover, to catch up with my tweets (I tweet daily about anything interesting I
 <tr>
   <td class='col-md-2'>Languages</td>
   <td markdown="1">
-C,C++,Embedded C,  Bash, HTML, JavaScript, Python.
+C, Embedded C, Assembly, C++, Bash, Python.
   </td>
 </tr>
 <tr>
@@ -111,7 +115,7 @@ Code Composer Studio, Keil, Simplicity Studio, MCU expresso, AVR Studio, Buildro
 <tr>
   <td class='col-md-2'>Operating Systems</td>
   <td markdown="1">
-Linux(Debian), Windows, FreeRTOS.
+Linux, Windows, FreeRTOS.
   </td>
 </tr>
 </table>
