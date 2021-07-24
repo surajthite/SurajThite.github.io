@@ -1,3 +1,10 @@
+- title: "Software Developer: June  2021 - Present."
+  description: Integral part of Core Systems Engineering group at Intel ( NPSG) Corporation for Enterprise SSD's. 
+  additional_classes: slideInLeft
+  icon:
+    src: /images/intel.png
+    background_color: #E7235E
+
 - title: "Associate Member: May 2020 - Present."
   description: Working on micro-watt project for IBM POWER 10 architecture collaborating with OpenPOWER Foundation.
   additional_classes: slideInLeft
@@ -5,15 +12,15 @@
     src: /images/power.png
     background_color: #E7235E
 
-- title: "Graduate Teaching Assistant: May 2020 - Present."
+- title: "Graduate Teaching Assistant: May 2020 - May 2021."
   description: Took up the responsibiliy of Graduate Teaching Assistant at CU Boulder for Real Time Embedded Systems Design and Facilitating it on Coursera.
   additional_classes: slideInRight
   icon:
     src: /images/ta.png
     background_color: #E7235E
 
-- title: "Graduate School at CU Boulder: August 2019-Present."
-  description: Kicked off My grad life at University of Colorado Bodulder
+- title: "Graduate School at CU Boulder: August 2019-May 2021."
+  description: Obtained Master's degree in Electrical and Electronics Engineering with Specialization in Embedded Systems and IoT Firmware Design. 
   additional_classes: slideInLeft
   icon:
     src: /images/c21u.png
