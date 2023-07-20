@@ -1,4 +1,11 @@
-- title: "Software Developer: June  2021 - Present."
+- title: "Software Developer: Jan  2022 - Present."
+  description: Integral part of Feature Development and Command Parellelism team for Data Center Group.
+  additional_classes: slideInLeft
+  icon:
+    src: /images/solidigm.png
+    background_color: #E7235E
+
+- title: "Software Developer: June  2021 - Jan 2022."
   description: Integral part of Core Systems Engineering group at Intel ( NPSG) Corporation for Enterprise SSD's. 
   additional_classes: slideInLeft
   icon:
